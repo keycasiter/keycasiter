@@ -26,7 +26,7 @@
 
   + ToC business: marketing, user growth, user authentication, aggregate payment, etc
 
-- 🌱 **「Recently Doing」**
+- 🌱 **「Recently」**
 
   + Golang special technical article output, seckill system demo
 
