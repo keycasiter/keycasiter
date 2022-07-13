@@ -34,4 +34,4 @@
 
   + Technical official account: 大摩羯先生 (share some learning precipitation, thinking, project practice, etc. around the front-line development content of the service end)
 
-  + Personal wechat: keycaster (welcome to add wechat to communicate and comment your information hard)
+  + Personal wechat: keycaster (welcome to add wechat to communicate and comment your information please)
