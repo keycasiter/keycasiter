@@ -3,7 +3,7 @@
 - 👀 **「个人介绍」** Golang / Java开发者
     + 做过ToB业务：呼叫中心、工单系统、供应链、人力资源等
     
-    + 做过ToC业务：营销、用户增长、用户认证、聚合支付等
+    + 做过ToC业务：营销活动、用户增长、用户认证、聚合支付等
 
 - 🌱 **「近期在做」** 
 
@@ -24,7 +24,7 @@
 
   + Tob business: Call Center, work order system, supply chain, human resources, etc
 
-  + ToC business: marketing, user growth, user authentication, aggregate payment, etc
+  + ToC business: marketing activity, user growth, user authentication, aggregate payment, etc
 
 - 🌱 **「Recently」**
 
