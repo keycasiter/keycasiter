@@ -25,7 +25,7 @@
 
 - 👀 **「Introduction」** Golang / Java Developer
 
-  + Tob business: Call Center, work order system, supply chain, human resources, etc
+  + ToB business: Call Center, work order system, supply chain, human resources, etc
 
   + ToC business: marketing activity, user growth, user authentication, aggregate payment, etc
 
