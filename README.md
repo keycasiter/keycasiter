@@ -17,6 +17,8 @@
     + 技术公众号：大摩羯先生  （围绕服务端一线开发内容分享一些学习沉淀、思考、项目实战等内容）
     
     + 个人微信： keycasiter （欢迎加微交流，辛苦备注您的信息）
+
+    + 掘金主页：https://juejin.cn/user/2612095358865262 🏆签约作者
     
 ----
 
@@ -38,6 +40,8 @@
   + Technical official account: 大摩羯先生 (share some learning precipitation, thinking, project practice, etc. around the front-line development content of the service end)
 
   + Personal wechat: keycaster (welcome to add wechat to communicate and comment your information please)
+  
+  + Juejin: https://juejin.cn/user/2612095358865262 🏆 Signed Author
 
 ----
 <div align="center">
