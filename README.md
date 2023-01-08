@@ -10,7 +10,7 @@
 
 - 🌱 **「近期在做」** 
 
-    + Golang专题技术文章输出，秒杀系统Demo
+    + Golang专题技术文章输出
 
 - 📫 **「联系方式」** 
 
@@ -33,7 +33,7 @@
 
 - 🌱 **「Recently」**
 
-  + Golang special technical article output, seckill system demo
+  + Golang special technical article output
 
 - 📫 **「Contact」**
 
